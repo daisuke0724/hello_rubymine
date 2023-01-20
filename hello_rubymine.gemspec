@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "hello_rubymine"
   spec.version = HelloRubymine::VERSION
   spec.authors = ["Daisuke Takayama"]
-  spec.email = ["daisuke.takayama@limsystems.net"]
+  spec.email = ["daisuke.takayama@example.com"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
   spec.description = "TODO: Write a longer description or delete this line."
